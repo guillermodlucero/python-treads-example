@@ -5,7 +5,7 @@ import sys
 import time
 
 #comandos
-#Ej: python3 ddos_script.py 192.168.0.105 32400 15 1
+#Ej: python3 test_script.py 192.168.0.105 32400 15 1
 #1 ingreso IP
 #2 ingreso puerto
 #3 ingreso cantidad de hilos de trabajo
